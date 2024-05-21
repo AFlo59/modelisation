@@ -1,0 +1,6 @@
+# Ignore venv
+venv/
+
+# Ignore models or modelisation
+*models*
+*modelisation*
